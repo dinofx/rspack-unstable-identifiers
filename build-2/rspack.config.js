@@ -8,7 +8,7 @@ module.exports = {
   },
   resolve: {
     alias: {
-      "my-lib": `${__dirname}/packages/my-lib-v2`,
+      "my-lib": `./packages/my-lib-v2`,
     }
   }
 };
