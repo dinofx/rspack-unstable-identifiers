@@ -1,0 +1,12 @@
+{
+  "name": "rspack-testing",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@rspack/cli": "^1.4.9",
+    "@rspack/core": "^1.4.9"
+  },
+  "scripts": {
+    "build": "pnpm run --parallel build"
+  }
+}
